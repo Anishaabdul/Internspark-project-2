@@ -160,3 +160,8 @@ Sales performance analysis plays a crucial role in helping organizations make da
 This project demonstrates how data analytics can be used to uncover meaningful insights from raw sales data and support better business strategies.
 
 ---
+## Author
+Anisha A
+Data Analyst Intern
+
+---
